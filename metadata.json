@@ -1,0 +1,8 @@
+{
+  "name": "Remix Interactive Math Plotter",
+  "description": "A powerful graphing calculator with interactive parameter analysis and OCR support for professional mathematical visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

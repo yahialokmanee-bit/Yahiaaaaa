@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GraphPlotter</string>
+    <string name="app_subtitle">حاسبة رسم المنحنيات والمناقشة البيانية</string>
+    <string name="formula_hint">أدخل عبارة الدالة هنا (مثال: x + 1/x)</string>
+    <string name="parametric_title">المناقشة البيانية بالوسيط m</string>
+    <string name="activate_param">تفعيل المناقشة البيانية (y = ax + m)</string>
+    <string name="deactivate_param">إلغاء تفعيل المناقشة البيانية</string>
+    <string name="slope_label">ميل المستقيم (a):</string>
+    <string name="param_m_label">قيمة الوسيط (m):</string>
+    <string name="intersection_solutions">الوضع النسبي والتقاطعات</string>
+    <string name="reset_axes">إعادة ضبط المحاور</string>
+    <string name="presets_title">نماذج ودوال شهيرة (بكالوريا)</string>
+    <string name="casio_keyboard">لوحة مفاتيح CASIO التفاعلية</string>
+</resources>
